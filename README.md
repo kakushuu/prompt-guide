@@ -20,6 +20,12 @@ Prompt engineering is an emerging field focusing on creating and refining prompt
 7. **Interdisciplinary Nature**: Prompt engineering intersects with linguistics, computer science, psychology, and more, offering a rich, interdisciplinary approach to problem-solving.
 
 
+The total workflow show as below:
+
+
+![Image text](https://github.com/kakushuu/prompt-guide/blob/main/img-folder/GPT_workflow.png)
+
+
 ### 1. DBSCAN prompt
 
 > me:
@@ -214,6 +220,8 @@ Note: The name of the file saved as excel must be consistent with the name of th
 The field-road segmentation has been performed on the new data file using the optimized DBSCAN parameters. The segmented data has been saved in an Excel file, named consistently with the original file name.
 
 You can download the segmented data from the following link: [Segmented wheat_1_harvestor_12_longitude_latitude.xlsx](sandbox:/mnt/data/segmented_wheat_1_harvestor_12_longitude_latitude.xlsx).
+
+
 
 
 

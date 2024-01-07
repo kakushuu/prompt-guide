@@ -20,8 +20,7 @@ Prompt engineering is an emerging field focusing on creating and refining prompt
 7. **Interdisciplinary Nature**: Prompt engineering intersects with linguistics, computer science, psychology, and more, offering a rich, interdisciplinary approach to problem-solving.
 ---
 
-
-> DBSCAN prompt
+DBSCAN prompt
 
 > me:
 You aim to become a professional expert in agricultural machinery trajectory big data processing. We have selected several classic literature sources on the identifying  agricultural  machinery  operation  mode to assist you in understanding the tasks you will be handling next.

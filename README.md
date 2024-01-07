@@ -18,12 +18,14 @@ Prompt engineering is an emerging field focusing on creating and refining prompt
 6. **Documentation and Knowledge Sharing**: The field emphasizes the importance of documenting case studies, best practices, and guidelines. Sharing detailed prompts, feed literature, and experiences helps the community to learn and grow collectively.
 
 7. **Interdisciplinary Nature**: Prompt engineering intersects with linguistics, computer science, psychology, and more, offering a rich, interdisciplinary approach to problem-solving.
----
 
-DBSCAN prompt
+
+### DBSCAN prompt
+
 
 > me:
 You aim to become a professional expert in agricultural machinery trajectory big data processing. We have selected several classic literature sources on the identifying  agricultural  machinery  operation  mode to assist you in understanding the tasks you will be handling next.
+
 
 > chat-gpt4:
 Embarking on a journey to become an expert in agricultural machinery trajectory big data processing is both challenging and rewarding. This field combines knowledge of agriculture, machinery operation, and advanced data processing techniques. To assist you in this endeavor, I can recommend some classic literature sources that will provide a foundational understanding of agricultural machinery operation modes and their relation to big data processing. Here are some key areas you should focus on:

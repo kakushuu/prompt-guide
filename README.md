@@ -227,7 +227,7 @@ The field-road segmentation has been performed on the new data file using the op
 You can download the segmented data from the following link: [Segmented wheat_1_harvestor_12_longitude_latitude.xlsx](sandbox:/mnt/data/segmented_wheat_1_harvestor_12_longitude_latitude.xlsx).
 
 
-### Experiment results:
+### DBSCAN Experiment results:
 
 
 ![Image text](https://github.com/kakushuu/prompt-guide/blob/main/img-folder/DBSCAN_01.png)

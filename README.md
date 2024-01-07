@@ -22,12 +22,11 @@ Prompt engineering is an emerging field focusing on creating and refining prompt
 
 ### DBSCAN prompt
 
-
 > me:
 You aim to become a professional expert in agricultural machinery trajectory big data processing. We have selected several classic literature sources on the identifying  agricultural  machinery  operation  mode to assist you in understanding the tasks you will be handling next.
 
-
 > chat-gpt4:
+
 Embarking on a journey to become an expert in agricultural machinery trajectory big data processing is both challenging and rewarding. This field combines knowledge of agriculture, machinery operation, and advanced data processing techniques. To assist you in this endeavor, I can recommend some classic literature sources that will provide a foundational understanding of agricultural machinery operation modes and their relation to big data processing. Here are some key areas you should focus on:
 
 1. **Agricultural Machinery Basics**: Start with books or academic papers that explain the types and functions of various agricultural machines. Understanding the machinery itself is crucial before delving into its operation modes.

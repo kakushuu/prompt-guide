@@ -43,9 +43,11 @@ Embarking on a journey to become an expert in agricultural machinery trajectory 
 
 Remember, the key is to build a strong foundation in both the agricultural and technological aspects of your field. Regularly reading industry journals, attending relevant conferences or webinars, and networking with professionals in the field can also be greatly beneficial.
 
+
 > me:
 
 We first regard field - road classification as a task only naming conventions, then the following conception such as  Field-road segmentation，Field-road classification，Field-road clustering, all identified as the field - road classification.
+
 
 > chat-gpt4:
 
@@ -63,9 +65,11 @@ Throughout these tasks, the key is to effectively utilize big data techniques su
 
 In summary, your approach to categorize and analyze agricultural machinery operation through the lens of field-road classification tasks is comprehensive. It allows for a detailed understanding of machinery usage patterns, which is fundamental in optimizing agricultural practices using big data.
 
+
 > me:
 
 I'm going to give you some papers that focus on the concept of field - road classification, you just need to understand the concept in conjunction with the paper
+
 
 > chat-gpt4:
 
